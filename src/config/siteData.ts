@@ -55,25 +55,29 @@ export const siteData: SiteData = {
       id: "product-1",
       title: "SUPER TREINO 90D",
       description: "O Super Treino 90D será uma jornada transformadora para fortalecer seu corpo, elevar sua autoconfiança e alcançar um nível de condicionamento físico que você nunca imaginou ser possível. Então, prepare-se para suar, se desafiar e se surpreender com os resultados que você pode conquistar. Ah, e o melhor: você irá pagar aproximadamente 1 REAL POR DIA. Quer oportunidade melhor do que essa?",
-      image: "/supertreino.png"
+      image: "/supertreino.png",
+      url: "https://pay.kiwify.com.br/I901axS"
     },
     {
       id: "product-2",
       title: "XCELERATE: DESAFIO TRIMESTRAL",
       description: "Transforme completamente seu corpo em apenas 3 meses com o Programa Intensivo XCELERATE. Treinos avançados, estratégias eficazes e suporte para alcançar resultados impressionantes. Adquira agora e alcance o corpo dos seus sonhos! E mais uma vez, por um preço super acessível.",
-      image: "/xcelerate.png"
+      image: "/xcelerate.png",
+      url: "https://pay.kiwify.com.br/iDgjAr0"
     },
     {
       id: "product-3",
       title: "TRANSFORMAÇÃO 24",
       description: "Transformação 24: Desafio de emagrecimento saudável. Programa online de 24 dias para perda de peso sustentável e saudável.",
-      image: "/transformacao.png"
+      image: "/transformacao.png",
+      url: "https://pay.kiwify.com.br/VYsmZcb"
     },
     {
       id: "product-4",
       title: "EBOOK: Comendo Saudável: Coma bem, Esteja bem",
       description: "Por que comer de forma saudável? Quais os perigos das “dietas da moda”? Quais os benefícios de comer frutas e vegetais? Quais os perigos dos ultraprocessados? Você irá entender sua relação com a comida e tirar várias dúvidas sobre os alimentos e a alimentação. Tudo isso em somente 40 páginas. Tá preparado?",
-      image: "/ebook.png"
+      image: "/ebook.png",
+      url: "https://pay.kiwify.com.br/9YSQRro"
     }
   ],
   about: {

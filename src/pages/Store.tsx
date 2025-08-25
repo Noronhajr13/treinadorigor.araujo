@@ -72,7 +72,10 @@ const Products: React.FC = () => {
                 <p className="description">{product.description}</p>
                 
                 <Button 
-                  onClick={() => ""}
+                onClick={() => {
+                  const url = product.url;
+                  window.open(url, '_blank');
+                }}
                   variant="primary"
                 >
                   Comprar Agora

@@ -23,6 +23,7 @@ export interface SiteData {
     title: string;
     description: string;
     image: string;
+    url: string;
   }>;
   about: {
     title: string;
